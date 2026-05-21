@@ -5,4 +5,7 @@ See our active [To-Do List](./Workshop-Git-Github.md) for upcoming features and 
   
   
   
-This README.md file was added to correct the capitalization!
+This README.md file was added to correct the capitalization!  
+  
+** Made a pull request between clone new-branch and original lexicon-hello-world repo!
+ 
